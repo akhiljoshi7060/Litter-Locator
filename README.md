@@ -63,13 +63,13 @@ Required Software:
 
 ## Project Structure
 
-Litter-Locator/
-├── Data/             (dataset files)
-├── media/            (reference images/videos)
-├── models/           (trained YOLO models)
-├── scripts/          (helper scripts)
-├── .gitignore
-├── README.md
+* Litter-Locator
+* Data 
+* media 
+* models 
+* scripts 
+* .gitignore
+* README.md
 
 ## Performance
 
