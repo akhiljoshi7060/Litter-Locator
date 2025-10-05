@@ -60,17 +60,6 @@ Required Software:
    ```bash
    python detect.py --weights runs/train/exp/weights/best.pt --img 640 --source 0
    ```
-
-## Project Structure
-
-* Litter-Locator
-* Data 
-* media 
-* models 
-* scripts 
-* .gitignore
-* README.md
-
 ## Performance
 
 * Metrics: Mean Average Precision (mAP) and Intersection over Union (IoU)
@@ -78,23 +67,7 @@ Required Software:
 * FP32/FP64: Higher accuracy, slower inference
 * YOLOv7: Best accuracy
 * YOLOv4-Tiny and custom model: Best inference speed for UAV use
-
-## License
-
-This project is licensed under the MIT License.
-
-## Author
-
-Akhil Joshi
-GitHub: [@akhiljoshi7060](https://github.com/akhiljoshi7060)
-
-## Contact
-
-For questions or contributions:
-
-* Open an issue on GitHub Issues
-* Pull requests are welcome
-
+  
 ## Requirements.txt
 
 numpy
